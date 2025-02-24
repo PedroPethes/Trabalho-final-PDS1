@@ -4,7 +4,6 @@
 #define max_pokemon 100
 #define max_name 50
 
-// estrutura para representar um pokémon
 typedef struct {
     char nome[max_name];
     int ataque;
