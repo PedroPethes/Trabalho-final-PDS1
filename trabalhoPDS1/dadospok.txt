@@ -1,0 +1,7 @@
+3 3
+Squirtle 12 8 15 agua
+Vulpix 14 5 15 fogo
+Onix 10 7 20 pedra
+Golem 16 9 10 pedra
+Charmander 8 8 12 fogo
+Jolteon 10 7 12 eletrico
